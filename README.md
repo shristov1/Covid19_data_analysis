@@ -6,3 +6,5 @@ The notebook will answer these main questions:
 - Is there an effect on the general occupancy
 - Is that effect the same for properties with higher number of reviews
 - Is there a noticable effect on the prices of the properties from Jan 2020 to Jan 2021. 
+
+More analysis can be seen on Medium: https://medium.com/p/4d38ec57ec2c/edit

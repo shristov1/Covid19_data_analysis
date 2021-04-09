@@ -1,6 +1,8 @@
 # COVID-19 Data Analysis repo
 
-This code will answer a few questions I personally had wrt to the spread of Covid-19 worldwide: 
-- Financial status 
-- Average age 
-- Holidays 
+I have gathered data from AirBnB (http://insideairbnb.com/get-the-data.html) for London for the moinths of Jan 2020 and Jan 2021 and was interested in the reduction in occupied properties and if there is reduction in the prices. 
+
+The notebook will answer these main questions:
+- Is there an effect on the general occupancy
+- Is that effect the same for properties with higher number of reviews
+- Is there a noticable effect on the prices of the properties from Jan 2020 to Jan 2021. 

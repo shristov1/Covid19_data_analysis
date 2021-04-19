@@ -1,5 +1,7 @@
 # COVID-19 AirBnB Data Analysis repo
 
+[![Python application](https://github.com/shristov1/Covid19_data_analysis/actions/workflows/Python%20application.yml/badge.svg)](https://github.com/shristov1/Covid19_data_analysis/actions/workflows/Python%20application.yml)
+
 ### Libraries used
 
 - numpy
